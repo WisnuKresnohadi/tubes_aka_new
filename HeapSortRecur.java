@@ -50,7 +50,7 @@ public class HeapSortRecur {
         long duration = end - start;
 
         System.out.println();
-        System.out.println("Heap Sort (Iteratif) Selesai");
+        System.out.println("Heap Sort (Rekursif) Selesai");
         System.out.println("Waktu Eksekusi: " + duration + " ms (" + (duration / 1_000.0) + " s)");
     }
 }
